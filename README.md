@@ -4,8 +4,8 @@
 1. факт
 2. факт 
 
-# ссылка _на каой то сайт_ 
+# ссылка _на какой то сcайт_ 
 [ссылка](https://dzen.ru/)
 
 Потом портфолио буде дополняться !
-![фото](https://avatars.mds.yandex.net/get-entity_search/935097/825985340/orig)
+![](https://avatars.mds.yandex.net/get-entity_search/935097/825985340/orig)
