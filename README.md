@@ -8,4 +8,4 @@
 [ссылка](https://dzen.ru/)
 
 Потом портфолио буде дополняться !
-![фото](\Tyumen.jpg)
+![фото](https://avatars.mds.yandex.net/get-entity_search/935097/825985340/orig)
