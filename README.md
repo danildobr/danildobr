@@ -1,14 +1,12 @@
 <div id="header" align="center">  
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtlMDUyenlqdjZscWh4a2syZmt0aXB4YWR4dWJtd2RoOWY1cmhzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/>
-
 </div>
+
 <div id="badges" align="center">
-  <a href="https://t.me/Dani_Dobronravov" target="_blank" >
+  <a href="https://t.me/Dani_Dobronravov" target="_blank" rel="noopener noreferrer">
     <img src="https://avatars.mds.yandex.net/i?id=59994a1b6eff57e28bd3163042a9e86e_l-5322694-images-thumbs&n=13" width="50" alt="Telegram Badge"/>
   </a>
-  </div>
-
----
+</div>
 
 
 ### Обо мне :
@@ -62,11 +60,18 @@ Python-разработчик
 ---
 ## Мои проекты:
 
-- [Веб-скрепер для образовательных курсов Нетологии](https://github.com/pyLexxDramma/web_scraper) - Приложение на Python, которое использует библиотеки requests, BeautifulSoup и tkinter для извлечения информации о курсах с сайта Нетологии.
-- [VKPhotoBackup](https://github.com/pyLexxDramma/VKPhotoBackup) - Проект для резервного копирования фотографий с профиля (аватарок) и альбомов пользователя VK в облачные хранилища: Яндекс.Диск и GPT-OPEN Drive.
-- [NASAPhotoTelegram](https://github.com/pyLexxDramma/NASAPhotoTelegram) - Интеграция API NASA с Telegram для загрузки фото.
-- [Бот-обучалка английскому языку](https://github.com/pyLexxDramma/English_Teacher_Bot) - Этот бот помогает изучать английский язык с помощью карточек слов.
-- [Сервис знакомств](https://github.com/pyLexxDramma/Team_project) - Командный проект чат-бота VKTinder.
+- [Сервис знакомств](https://github.com/danildobr/Team_project_VKinder) - Командный проект чат-бота VKTinder.
+
+- [Бот-обучалка английскому языку](https://github.com/danildobr/telegram_ang_rus) - Этот бот помогает изучать английский язык с помощью карточек слов.
+
+- [Резервное копирование фото](https://github.com/danildobr/coursework-) - Проект для резервного копирования фотографий с профиля (аватарок) и альбомов пользователя VK в облачное хранилище: Яндекс Диск.
+
+- [Скрапинг сайта OZON](https://github.com/danildobr/my_works/blob/main/ozon_parsing/ozon.py) - Приложение на Python, которое использует библиотеку selenium для извлечения информации с сайта OZON.
+
+- [Скрапинг сайта Iledebeaute](https://github.com/danildobr/my_works/blob/main/парсинг_ильдуботе.py) - Приложение на Python, которое использует библиотеки  requests, BeautifulSoup для извлечения информации с сайта Iledebeaute.
+
+- [Тайный санта](https://github.com/danildobr/my_works/blob/main/тайный%20санта.py) - Скрипт для генерации пар кто кому будет дарить подарки на новый год.
+
 ---
 - *Учебные работы:*
 [Netology](https://github.com/danildobr/netology) - Домашние, курсовые, дипломные работы.
