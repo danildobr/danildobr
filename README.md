@@ -6,6 +6,9 @@
   <a href="https://t.me/Dani_Dobronravov" target="_blank" rel="noopener noreferrer">
     <img src="https://avatars.mds.yandex.net/i?id=59994a1b6eff57e28bd3163042a9e86e_l-5322694-images-thumbs&n=13" width="50" alt="Telegram Badge"/>
   </a>
+<div>
+   <img src="https://visitor-badge.laobi.icu/badge?page_id=Dani_Dobronravov.README&left_color=green&right_color=red&left_text=Visitors to my Git Hub" alt="visitors to my git hub"/>
+</div>
 </div>
 
 
