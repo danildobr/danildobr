@@ -8,7 +8,7 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/danildobr&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Unique+Visitors&edge_flat=false&hide_visitor=danildobr" alt="Visitor counter"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=danildobr" alt="Visitor counter"/>
 </div>
 
 <!-- <div align="center">
